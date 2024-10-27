@@ -21,20 +21,15 @@
                 "world/generic/gnome/passive doodads/gnomemachine/gnomemachine05.m2",
                 "world/generic/gnome/passive doodads/gnomemachine/gnomemachine06.m2",
                 "world/generic/gnome/passive doodads/gnomemachine/gnomesubwaysign.m2",
-                "world/wmo/kalimdor/buildings/goblinhut/kl_goblin_ice_observatory.wmo",
                 "world/generic/gnome/passive doodads/gnomemachinery/gnomehutmachinery.m2",
                 "world/generic/gnome/passive doodads/gnomerocketcarts/gnomerocketcart.m2",
-                "world/generic/gnome/passive doodads/gnomewalladdons/gnomewalladdon01.m2",
                 "world/generic/gnome/passive doodads/hazardlights/gnomehazardlight01.m2",
-                "world/generic/gnome/passive doodads/hazardlights/gnomehazardlight02.m2",
-                "world/generic/gnome/passive doodads/hazardlights/gnomehazardlightred_02.m2",
                 "world/generic/gnome/passive doodads/lights/gnomestructuralspotlight02.m2",
                 "world/generic/gnome/passive doodads/rocketplatform/gnomerocketplatform_01.m2",
                 "world/generic/gnome/passive doodads/spidertank/gnomespidertank01.m2",
                 "world/goober/g_gnomesparklematic.m2",
                 "world/goober/g_gnometerminal_collision.m2",
                 "world/kalimdor/thousandneedles/passivedoodads/bleachers/gnomebleachers.m2",
-                "world/wmo/azeroth/buildings/gnomehut/gnomehut.wmo",
                 "world/wmo/azeroth/buildings/gnomehut/gnomehuttwostory.wmo",
                 "world/wmo/northrend/buildings/oilrig/oilplatform_gnome.wmo",
                 "world/wmo/transports/wmo_elevators/ulduarraid_gnomewing_transport_wmo.wmo",
@@ -44,7 +39,6 @@
                 "world/expansion01/doodads/netherstorm/goblinbridge/ol_goblinbridge_gears01.m2",
                 "world/kalimdor/tanaris/passivedoodads/goblin/go_large_bomb_2.m2",
                 "world/generic/goblin/passivedoodads/controlpanel/goblincontrolpanel.m2",
-                "world/generic/gnome/passive doodads/gnomemachinery/gnomehutelevator.m2",
                 "world/generic/goblin/passivedoodads/goblinmachinery/goblinmachinery.m2",
                 "world/generic/goblin/passivedoodads/goblintntwagon/goblinwagontnt_01.m2",
                 "world/wmo/kalimdor/netherbridges/goblin_netherbridge01.wmo",
@@ -58,7 +52,7 @@
                 "world/wmo/kalimdor/buildings/goblinlab/goblinlab.wmo",
                 "world/wmo/northrend/buildings/goblin/nd_goblin_bridge.wmo",
                 "world/wmo/northrend/buildings/goblin/nd_goblin_hangar.wmo",
-                "world/generic/human/passive doodads/woodenstairs/woodenstairs02.m2"
+                "world/wmo/azeroth/buildings/gnomehut/gnomehut.wmo"
             ],
             "MapId": 1
         }
